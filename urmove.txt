@@ -1,0 +1,8 @@
+You can go : http://blog.csdn.net/wxflamy/article/details/79102661
+             http://www.jhbaobei.com/jishuxuexi/2798.html
+         
+moveit tutorial: http://docs.ros.org/indigo/api/moveit_tutorials/html/doc/ros_visualization/visualization_tutorial.html
+
+
+http://docs.ros.org/kinetic/api/moveit_ros_planning_interface/html/classmoveit_1_1planning__interface_1_1MoveGroup.html
+http://docs.ros.org/indigo/api/moveit_ros_move_group/html/annotated.html
